@@ -1,0 +1,1 @@
+export const TRADING_API_KEY = process.env.TRANDINGENOMICS_API_KEY
